@@ -14,4 +14,10 @@ docker run --pull=always --rm -it -p 8080:8080 --user=root \
 sudo docker run -d -it -p 8080:8080 --user=root \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -v /tmp:/tmp docker.1ms.run/kestra/kestra:latest server local
+
+Kestra
+http://49.232.232.231:8080
+admin1@ai-space.net
+admin1
+Hjh@2023
 ```
